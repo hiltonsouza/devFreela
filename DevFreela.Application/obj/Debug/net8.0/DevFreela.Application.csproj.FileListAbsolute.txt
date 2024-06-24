@@ -1,0 +1,17 @@
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Application\bin\Debug\net8.0\DevFreela.Application.deps.json
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Application\bin\Debug\net8.0\DevFreela.Application.dll
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Application\bin\Debug\net8.0\DevFreela.Application.pdb
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Application\bin\Debug\net8.0\DevFreela.Core.dll
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Application\bin\Debug\net8.0\DevFreela.Infrastructure.dll
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Application\bin\Debug\net8.0\DevFreela.Core.pdb
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Application\bin\Debug\net8.0\DevFreela.Infrastructure.pdb
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Application\obj\Debug\net8.0\DevFreela.Application.csproj.AssemblyReference.cache
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Application\obj\Debug\net8.0\DevFreela.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Application\obj\Debug\net8.0\DevFreela.Application.AssemblyInfoInputs.cache
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Application\obj\Debug\net8.0\DevFreela.Application.AssemblyInfo.cs
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Application\obj\Debug\net8.0\DevFreela.Application.csproj.CoreCompileInputs.cache
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Application\obj\Debug\net8.0\DevFreel.D9F19A30.Up2Date
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Application\obj\Debug\net8.0\DevFreela.Application.dll
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Application\obj\Debug\net8.0\refint\DevFreela.Application.dll
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Application\obj\Debug\net8.0\DevFreela.Application.pdb
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Application\obj\Debug\net8.0\ref\DevFreela.Application.dll
