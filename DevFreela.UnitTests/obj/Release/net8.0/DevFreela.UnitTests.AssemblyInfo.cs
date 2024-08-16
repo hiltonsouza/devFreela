@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DevFreela.UnitTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4393e11a3c7dcb5d8efe82f4fd77568bc6cb78f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40cc718029e350b477fa43b3240d4a115c2e43ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("DevFreela.UnitTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DevFreela.UnitTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

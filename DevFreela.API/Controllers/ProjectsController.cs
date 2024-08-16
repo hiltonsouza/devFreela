@@ -27,11 +27,9 @@ namespace DevFreela.API.Controllers
 
         [HttpGet]
         [Authorize(Roles = "client, freelancer")]
-        public async Task<IActionResult> Get(string query)
+        public async Task<IActionResult> Get(GetAllProjectsQuery getAllProjectsQuery)
         {
             //buscar todos ou filtrar
-            var getAllProjectsQuery = new GetAllProjectsQuery(query);
-
             var projects = await _mediator.Send(getAllProjectsQuery);
 
             return Ok(projects);

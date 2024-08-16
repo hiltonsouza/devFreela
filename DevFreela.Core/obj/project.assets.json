@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SouzaHi1\\source\\repos\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
+      "projectUniqueName": "C:\\Users\\SouzaHi1\\Source\\Repos\\devFreela\\DevFreela.Core\\DevFreela.Core.csproj",
       "projectName": "DevFreela.Core",
-      "projectPath": "C:\\Users\\SouzaHi1\\source\\repos\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
+      "projectPath": "C:\\Users\\SouzaHi1\\Source\\Repos\\devFreela\\DevFreela.Core\\DevFreela.Core.csproj",
       "packagesPath": "C:\\Users\\SouzaHi1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SouzaHi1\\source\\repos\\DevFreela\\DevFreela.Core\\obj\\",
+      "outputPath": "C:\\Users\\SouzaHi1\\Source\\Repos\\devFreela\\DevFreela.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SouzaHi1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

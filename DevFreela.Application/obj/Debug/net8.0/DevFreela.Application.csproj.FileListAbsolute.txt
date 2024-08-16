@@ -10,6 +10,7 @@ C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Application\obj\Debug\net8.0\
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Application\obj\Debug\net8.0\DevFreela.Application.AssemblyInfoInputs.cache
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Application\obj\Debug\net8.0\DevFreela.Application.AssemblyInfo.cs
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Application\obj\Debug\net8.0\DevFreela.Application.csproj.CoreCompileInputs.cache
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Application\obj\Debug\net8.0\DevFreela.Application.sourcelink.json
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Application\obj\Debug\net8.0\DevFreel.D9F19A30.Up2Date
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Application\obj\Debug\net8.0\DevFreela.Application.dll
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Application\obj\Debug\net8.0\refint\DevFreela.Application.dll

@@ -9,6 +9,7 @@ C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Infrastructure\obj\Debug\net8
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.AssemblyInfo.cs
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.sourcelink.json
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreel.D77BFD02.Up2Date
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.dll
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\refint\DevFreela.Infrastructure.dll

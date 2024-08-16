@@ -15,6 +15,7 @@ C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.API\bin\Debug\net8.0\FluentVa
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.API\bin\Debug\net8.0\Humanizer.dll
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.API\bin\Debug\net8.0\MediatR.dll
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.API\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -40,6 +41,7 @@ C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.API\bin\Debug\net8.0\Microsof
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.API\bin\Debug\net8.0\RabbitMQ.Client.dll
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -134,6 +136,7 @@ C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.API\obj\Debug\net8.0\DevFreel
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.API\obj\Debug\net8.0\DevFreela.API.csproj.CoreCompileInputs.cache
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.API\obj\Debug\net8.0\DevFreela.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.API\obj\Debug\net8.0\DevFreela.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.API\obj\Debug\net8.0\DevFreela.API.sourcelink.json
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.API\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.API\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.API\obj\Debug\net8.0\staticwebassets\msbuild.DevFreela.API.Microsoft.AspNetCore.StaticWebAssets.props
@@ -148,5 +151,3 @@ C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.API\obj\Debug\net8.0\refint\D
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.API\obj\Debug\net8.0\DevFreela.API.pdb
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.API\obj\Debug\net8.0\DevFreela.API.genruntimeconfig.cache
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.API\obj\Debug\net8.0\ref\DevFreela.API.dll
-C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.API\bin\Debug\net8.0\RabbitMQ.Client.dll

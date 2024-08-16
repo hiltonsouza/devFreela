@@ -1,0 +1,7 @@
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\bin\Release\net8.0\CoverletSourceRootsMapping_DevFreela.UnitTests
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\obj\Release\net8.0\DevFreela.UnitTests.csproj.AssemblyReference.cache
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\obj\Release\net8.0\DevFreela.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\obj\Release\net8.0\DevFreela.UnitTests.AssemblyInfoInputs.cache
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\obj\Release\net8.0\DevFreela.UnitTests.AssemblyInfo.cs
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\obj\Release\net8.0\DevFreela.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\obj\Release\net8.0\DevFreela.UnitTests.sourcelink.json

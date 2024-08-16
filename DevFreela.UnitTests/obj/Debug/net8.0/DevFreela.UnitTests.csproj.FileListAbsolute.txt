@@ -10,6 +10,7 @@ C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\bin\Debug\net8.0\De
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\bin\Debug\net8.0\DevFreela.UnitTests.pdb
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\bin\Debug\net8.0\Castle.Core.dll
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\bin\Debug\net8.0\Dapper.dll
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
@@ -41,8 +42,10 @@ C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\bin\Debug\net8.0\Mi
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\bin\Debug\net8.0\Moq.dll
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\bin\Debug\net8.0\RabbitMQ.Client.dll
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\bin\Debug\net8.0\System.Drawing.Common.dll
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
@@ -143,11 +146,10 @@ C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\obj\Debug\net8.0\De
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\obj\Debug\net8.0\DevFreela.UnitTests.AssemblyInfoInputs.cache
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\obj\Debug\net8.0\DevFreela.UnitTests.AssemblyInfo.cs
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\obj\Debug\net8.0\DevFreela.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\obj\Debug\net8.0\DevFreela.UnitTests.sourcelink.json
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\obj\Debug\net8.0\DevFreel.899725C0.Up2Date
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\obj\Debug\net8.0\DevFreela.UnitTests.dll
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\obj\Debug\net8.0\refint\DevFreela.UnitTests.dll
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\obj\Debug\net8.0\DevFreela.UnitTests.pdb
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\obj\Debug\net8.0\DevFreela.UnitTests.genruntimeconfig.cache
 C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\obj\Debug\net8.0\ref\DevFreela.UnitTests.dll
-C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\bin\Debug\net8.0\Castle.Core.dll
-C:\Users\SouzaHi1\source\repos\DevFreela\DevFreela.UnitTests\bin\Debug\net8.0\Moq.dll

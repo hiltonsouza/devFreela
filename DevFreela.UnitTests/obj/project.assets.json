@@ -8717,7 +8717,7 @@
       "projectName": "DevFreela.UnitTests",
       "projectPath": "C:\\Users\\SouzaHi1\\source\\repos\\DevFreela\\DevFreela.UnitTests\\DevFreela.UnitTests.csproj",
       "packagesPath": "C:\\Users\\SouzaHi1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SouzaHi1\\source\\repos\\DevFreela\\DevFreela.UnitTests\\obj\\",
+      "outputPath": "C:\\Users\\SouzaHi1\\source\\repos\\devFreela\\DevFreela.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SouzaHi1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8797,7 +8797,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
